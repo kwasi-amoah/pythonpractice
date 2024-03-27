@@ -1,1 +1,2 @@
 # pythonpractice
+After the first part of my training in spreadsheets, databases and data visualisation and storytelling in Power BI, I was trained on Python programming language. This repository contains code challenges and integrated projects I did in python during my training. Currently, I am being trained on regression and will keep updating my repositories as I go along. Soon enough, I will be able to handle and start data science projects from scratch till the end.
